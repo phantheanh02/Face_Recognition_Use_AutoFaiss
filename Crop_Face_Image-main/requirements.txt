@@ -1,0 +1,4 @@
+PyQt5
+os
+opencv-python
+mtcnn
